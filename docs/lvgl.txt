@@ -2461,7 +2461,7 @@ Code[1099]:
  - func[1100] size=1601 <barebones_watchface::BarebonesWatchFace::update_power::h0190f4ab2fcb1f38>
  - func[1101] size=427 <barebones_watchface::get_day_name::h93c338d634e02b30>
  - func[1102] size=658 <barebones_watchface::get_month_name::h2a07ac61ab9ba973>
- - func[1103] size=33 <barebones_watchface::convert_battery_voltage::ha7c6023e11ed0f50>
+ - func[1103] size=39 <barebones_watchface::convert_battery_voltage::ha7c6023e11ed0f50>
  - func[1104] size=31 <core::ptr::drop_in_place$LT$mynewt..result..MynewtError$GT$::h323c2ab79e6e6d04>
  - func[1105] size=219 <core::result::Result$LT$T$C$E$GT$::expect::h16c027cf65d58e01>
  - func[1106] size=285 <create_clock>
