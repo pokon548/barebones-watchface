@@ -314,6 +314,5 @@ fn get_day_name(time: & WatchFaceTime) -> String {
 
 /// Convert battery voltage to percentage
 fn convert_battery_voltage(_voltage: u32) -> i32 {
-    //50  //  TODO
-    _voltage as i32
+    20  //  TODO
 }
